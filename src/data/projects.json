@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Clientela",
+    "technologies": [
+      "react",
+      "styled-components",
+      "framer motion",
+      "formik",
+      "react router",
+      "swiper"
+    ],
+    "image": "../assets/media/projects/clientela/gallery/clientelainc_logo.jpeg",
+    "link": "https://www.clientela.com/"
+  },
+  {
+    "title": "Get It Done",
+    "technologies": [
+      "next",
+      "nest",
+      "styled-components",
+      "three.js",
+      "i18Next",
+      "postgreSQL",
+      "mapbox",
+      "axios"
+    ],
+    "image": "../assets/media/projects/gid/gallery/gid_logo.jpeg",
+    "link": "https://www.getitdone.rocks/"
+  }
+]
