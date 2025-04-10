@@ -9,7 +9,7 @@
       "react router",
       "swiper"
     ],
-    "image": "../assets/media/projects/clientela/gallery/clientelainc_logo.jpeg",
+    "image": "../assets/media/projects/clientela/gallery/clientelainc_logo.png",
     "link": "https://www.clientela.com/"
   },
   {
@@ -24,7 +24,7 @@
       "mapbox",
       "axios"
     ],
-    "image": "../assets/media/projects/gid/gallery/gid_logo.jpeg",
+    "image": "../assets/media/projects/gid/gallery/gid_logo.png",
     "link": "https://www.getitdone.rocks/"
   }
 ]
