@@ -27,7 +27,7 @@ const Hero = () => {
           }}
         >
           <AnimatedHeading />
-          <ParagraphStyled>QA Specialist</ParagraphStyled>
+          <ParagraphStyled>Solutions Delivery Manager</ParagraphStyled>
         </HeaderStyled>
         <BallWrapperStyled>
           <BouncingBallStyled />
