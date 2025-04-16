@@ -49,44 +49,44 @@ export default Experience;
 
 const experiences = [
   {
-    company: 'E3DC GmbH',
-    link: 'https://www.e3dc.com/',
-    role: 'Frontend Developer / 2024 - Present',
+    company: 'Clientela Inc. | New York, United States',
+    link: 'https://www.clientela.com/',
+    role: 'QA Specialist and Solutions Delivery Manager / 2021 Dec - Present',
     description:
-      "I work as a frontend developer, mainly responsible for implementing new features on our 'Portal' application, as well as, maintaining and refactoring existing code.",
+      "I work as a QA Specialist responsible for both quality assurance and delivery efforts, with a balanced focus on testing and feature deployment. My role includes creating test plans, conducting functional and regression testing, automating e2e tests using Cypress, and collaborating closely with cross-functional teams to ensure smooth and timely delivery. I also maintain comprehensive project documentation and actively participate in sprint planning and release activities.",
     isExternalLink: true
   },
   {
-    company: 'Get it Done Technologies GmbH',
+    company: 'Get it Done Technologies GmbH | Berlin, Germany',
     link: 'https://www.getitdone.rocks/',
-    role: 'Full-Stack Developer / 2023 - 2024',
+    role: 'Senior QA, QA Lead / 2023 - 2024',
     description:
       "I worked as a full-stack developer responsible for implementing new features and maintaining internal web applications. I had to collaborate with my team on projects involving a range of functionalities, such as enhancing the admin panel, refactoring existing code, and creating responsive sub-pages. My work contributed to the continuous improvement of our applications, ensuring they met our company's evolving needs.",
     isExternalLink: true
   },
   {
-    company: 'AltexSoft',
-    link: 'https://www.altexsoft.com/',
-    role: 'Frontend Developer / 2022 - 2023',
+    company: 'Decentral Games (ICE Poker Metaverse)',
+    link: 'https://decentral.games/',
+    role: 'QA Engineer / 2022 - 2023',
     description:
-      'I worked on a project with a team of 15 people. We were building a new platform for a travel agency that would have a search engine, integrated booking system, admin panel and authentication. My tasks varied from refactoring existing code, implementing various functionalities in admin panel and other pages, to building fully responsive sub-pages from scratch.',
+      'I worked as a Senior QA Engineer in a blockchain gaming environment, testing smart contracts, NFT integrations, and crypto wallet connections. I was responsible for ensuring cross-platform compatibility and game performance, performing UI and AV testing, and validating blockchain-based transactions. My work supported the stability and user experience of ICE Poker across both desktop and metaverse platforms.',
+    isExternalLink: true
+  },
+  {
+    company: 'Space Int. | Tbilisi, Georgia',
+    link: 'https://www.spaceint.ge/',
+    role: 'QA Engineer / 2020 - 2021',
+    description:
+      'I worked as a QA Engineer for a digital banking platform operating in Georgia and Uzbekistan with more than 4 million users',
     isExternalLink: true
   },
   {
     company: 'Freelance',
     link: '#',
-    role: 'Frontend Developer / 2021 - Present',
+    role: 'QA Engineer (Manual & Automated) / 2020 - Present',
     description:
-      "I had a chance to work on different projects as a freelancer. I've built multiple portfolio websites using various tech stack and continue to take orders in my free time.",
+      "I had a chance to work on different projects as a freelancer. I've built multiple automated tests and continue to take orders in my free time.",
     isExternalLink: false
-  },
-  {
-    company: 'Lenø Records',
-    link: 'http://www.lenorecords.com/',
-    role: 'Audio Engineer / 2019 - 2020',
-    description:
-      'I worked as an audio engineer before I switched my profession and became a web developer. My responsibilities included recording, editing, mixing, mastering, as well as doing live sound at concerts.',
-    isExternalLink: true
   }
 ];
 

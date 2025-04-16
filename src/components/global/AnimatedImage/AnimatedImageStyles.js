@@ -12,7 +12,7 @@ export const ImageWrapperStyled = styled.div`
   -webkit-mask-image: -webkit-radial-gradient(white, black);
 
   & img {
-    object-fit: cover;
+    object-fit: scale-down;
   }
 
   & * {

@@ -13,7 +13,7 @@ export const ImageWrapperStyled = styled(motion.div)`
     height: 100%;
     width: 100%;
     max-height: 50rem;
-    object-fit: cover;
+    object-fit: scale-down;
     transition: transform 1.5s ease;
     min-height: 52rem;
   }

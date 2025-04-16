@@ -33,15 +33,14 @@ const Skills = () => {
 export default Skills;
 
 const skills = [
-  'TypeScript',
-  'React',
-  'Next',
-  'Vue',
-  'Nuxt',
-  'Nest',
-  'HTML',
-  'CSS',
-  'GIT'
+  'Manual Testing',
+  'Automation Testing',
+  'Performance Testing',
+  'Cypress',
+  'REST API',
+  'Backlog Management',
+  'Deployment Planning',
+  'Client Communication'
 ];
 
 const mainVariants = {

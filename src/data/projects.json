@@ -2,29 +2,69 @@
   {
     "title": "Clientela",
     "technologies": [
-      "react",
-      "styled-components",
-      "framer motion",
-      "formik",
-      "react router",
-      "swiper"
+      "JIRA",
+      "AGILE",
+      "SCRUM",
+      "JENKINS",
+      "CYPRESS",
+      "POSTMAN",
+      "SQL",
+      "MONGO",
+      "QAOPS",
+      "RELEASES",
+      "DELIVERABLES",
+      "PRIORITIZATION",
+      "TESTPLANS"
     ],
-    "image": "../assets/media/projects/clientela/gallery/clientelainc_logo.jpeg",
+    "image": "../assets/media/projects/clientela/gallery/clientelainc_logo.jpg",
     "link": "https://www.clientela.com/"
   },
   {
     "title": "Get It Done",
     "technologies": [
-      "next",
-      "nest",
-      "styled-components",
-      "three.js",
-      "i18Next",
-      "postgreSQL",
-      "mapbox",
-      "axios"
+      "TESTRAIL",
+      "CYPRESS",
+      "JIRA",
+      "REGRESSION",
+      "INTEGRATION",
+      "APITESTING",
+      "PERFORMANCE",
+      "SANITY",
+      "SMOKE",
+      "LOADTESTS",
+      "SQL"
     ],
-    "image": "../assets/media/projects/gid/gallery/gid_logo.jpeg",
+    "image": "../assets/media/projects/gid/gallery/same_size2.png",
     "link": "https://www.getitdone.rocks/"
+  },
+  {
+    "title": "Decentraland",
+    "technologies": [
+      "MANUAL",
+      "JIRA",
+      "REGRESSION",
+      "PERFORMANCE",
+      "WALLETS",
+      "SYNCING",
+      "METADATA",
+      "WHITELISTS"
+    ],
+    "image": "../assets/media/projects/gid/gallery/decentraland.png",
+    "link": "https://decentraland.org/"
+  },
+  {
+    "title": "Space Int.",
+    "technologies": [
+      "VALIDATION",
+      "COMPLIANCE",
+      "REGRESSION",
+      "PERFORMANCE",
+      "MONITORING",
+      "SYNCING",
+      "REPORTING",
+      "DOCUMENTATION"
+    ],
+    "image": "../assets/media/projects/gid/gallery/speis.avif",
+    "link": "https://www.spaceint.ge/"
   }
 ]

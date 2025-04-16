@@ -12,8 +12,8 @@ const Hero = () => {
         <ParagraphStyled {...motionDefaultAnimateProps}>
           The <TextGradientStyled>tech </TextGradientStyled> industry is rapidly
           shifting, improving and growing. <Lottie animationData={clock} /> I
-          believe, as a,{' '}
-          <TextGradientStyled>quality specialist</TextGradientStyled>, it is crucial to have the ability
+          believe, as a {' '}
+          <TextGradientStyled>quality specialist</TextGradientStyled> and a solutions delivery manager, it is crucial to have the ability
           to keep up with the pace &{' '}
           <TextGradientStyled>contribute</TextGradientStyled> to the process.
         </ParagraphStyled>
