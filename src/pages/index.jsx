@@ -17,7 +17,3 @@ export default HomePage;
 export const Head = () => {
   return <Seo title="Home" />;
 };
-
-export const config = {
-  ssr: false
-};

@@ -18,7 +18,3 @@ export default AboutPage;
 export const Head = () => {
   return <Seo title="About" pathname="about" />;
 };
-
-export const config = {
-  ssr: false
-};
