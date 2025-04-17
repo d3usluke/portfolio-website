@@ -93,6 +93,8 @@ export const ParagraphStyled = styled.p`
   font-size: 8rem;
   opacity: 0;
   animation: ${SlideUp} 1s ease forwards 3s;
+  padding-inline: 2rem;
+  text-align: center;
 
   ${customMediaQuery(880)} {
     font-size: 6.5rem;
@@ -103,9 +105,10 @@ export const ParagraphStyled = styled.p`
   }
 
   @media ${props => props.theme.breakpoints.sm} {
-    font-size: 5rem;
+    font-size: 3.5rem;
     text-align: center;
     line-height: 7rem;
+    padding-inline: 1rem;
   }
 `;
 
