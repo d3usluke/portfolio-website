@@ -46,7 +46,7 @@ export default Footer;
 const socials = [
   {
     name: 'Github',
-    link: 'https://github.com/lukeperegrine'
+    link: 'https://github.com/d3usluke'
   },
   {
     name: 'Linkedin',

@@ -32,7 +32,7 @@ const Text = () => {
       Hello! My name is Luka Maglakelidze, I am a Solutions Delivery Manager and
       QA Specialist with 5+ years of experience in tech. Led QA efforts for
       innovative projects across web, blockchain, and gaming platforms. Worked
-      with high-profile clients including Gucci, Cartier, Dyson and Selfridges. Specialized
+      with high-profile clients including Gucci, Diptyque, Dyson, Kiko Milano, Holt Renfrew and Selfridges. Specialized
       in automation, process optimization, and cross-functional collaboration to
       deliver quality-driven products.
       <br />
