@@ -27,7 +27,7 @@ const Hero = () => {
           }}
         >
           <AnimatedHeading />
-          <ParagraphStyled>Solutions Delivery Manager</ParagraphStyled>
+          <ParagraphStyled>Driven by Detail</ParagraphStyled>
         </HeaderStyled>
         <BallWrapperStyled>
           <BouncingBallStyled />
