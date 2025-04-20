@@ -56,6 +56,13 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
-    `gatsby-transformer-json`
+    `gatsby-transformer-json`,
+    {
+      resolve: '@vercel/gatsby-plugin-vercel-analytics',
+      options: {
+        // (optional) Prints metrics in the console when true
+        debug: true
+      }
+    }
   ]
 };
