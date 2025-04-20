@@ -109,6 +109,7 @@ export const ParagraphStyled = styled.p`
     text-align: center;
     line-height: 7rem;
     padding-inline: 1rem;
+    //
   }
 `;
 
