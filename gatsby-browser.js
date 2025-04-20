@@ -4,6 +4,7 @@ import { GlobalContextProvider, Theme } from 'providers';
 import { Layout } from 'components';
 import GlobalStyles from 'styles/GlobalStyles';
 import './global.css';
+import { Analytics } from '@vercel/analytics/react';
 
 export const wrapPageElement = ({ element, props }) => {
   const isDarkBackground = Boolean(props.params.title);
@@ -21,6 +22,7 @@ export const wrapRootElement = ({ element }) => {
       <Theme>
         <GlobalStyles />
         {element}
+        <Analytics />
       </Theme>
     </GlobalContextProvider>
   );
